@@ -13,7 +13,7 @@ I'm Tim Dobson, a self taught developer and lifelong learner who loves to explor
 ### Experience
 
 - **Junior Javascript Developer at XEBIT LIMITED** (March 2022 - Present): I write Javascript integrating with Google Sheets and WordPress to help businesses automate their processes.
-- **Chair of The Climbing Clan** (November 2017 - September 2024): Founded a climbing group and developed software products to support club operations.
+- **Chair of The Climbing Clan** (November 2017 - September 2024): Founded a climbing group and developed software products to support club operations. Stood down as Chair in September 2024.
 - **Chair of The Climbing Clan** (Jan 2020 - Present): Founded a caving group with a very similar setup and structure to the Climbing Clan.
 - **Technical Sales Consultant at Migrating Dragons** (April 2018 - March 2022): Supported technology companies in building and executing sales strategies.
 - **Customer Success Manager at Brightbox** (October 2018 - October 2019): Helped developers test our platform and gather feedback.
