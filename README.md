@@ -24,7 +24,7 @@ I'm Tim Dobson, a self taught developer and lifelong learner who loves to explor
 ### Skills and Technologies
 
 - **Programming Languages**: JavaScript, PHP, HTML, CSS
-- **Frameworks and Libraries**: React.js, Mantine, Next.js, react-query
+- **Frameworks and Libraries**: React.js, React Native, Mantine, Next.js, react-query
 - **Tools and Platforms**: Git, WordPress, Linux, Google Apps Script
 - **Spoken Languages**: English (Native), Russian (GSCE/not conversational), French (A Level/clumsy conversational)
 
