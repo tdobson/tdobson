@@ -4,8 +4,8 @@ I'm Tim Dobson, a self taught developer and lifelong learner who loves to explor
 
 ### About Me
 
-- 🔭 I’m currently the chair of The Climbing Clan and The Caving Crew, BMC and BCA affiliated climbing and caving clubs that I founded. Through my work with these clubs, I've developed several software products to assist with club operations. Most notably, I've created **neoClan**, a second-generation membership check-in system.
-- 🌱 I’m currently teaching myself React with the Mantine framework and Next.js, as well as exploring react-query and advanced git workflows.
+- 🔭 I’m currently the chair of The Caving Crew a BCA affiliated caving club that I founded. I've recently stepped down as Chair of The Climbing Clan. Through my work with these clubs, I've developed several software products to assist with club operations. Most notably, I've created **neoClan**, a second-generation membership check-in system.
+- 🌱 I’m currently teaching myself React with the Mantine framework, React Native and Next.js, as well as exploring react-query and advanced git workflows.
 - 👯 I’m keen on opportunities for freelance work and development. If you have an exciting project, I'd love to collaborate!
 - 💬 Ask me about Linux administration, rock climbing and caving.
 - ⚡ Fun fact: I have a wonderful son named James.
@@ -14,7 +14,7 @@ I'm Tim Dobson, a self taught developer and lifelong learner who loves to explor
 
 - **Junior Javascript Developer at XEBIT LIMITED** (March 2022 - Present): I write Javascript integrating with Google Sheets and WordPress to help businesses automate their processes.
 - **Chair of The Climbing Clan** (November 2017 - September 2024): Founded a climbing group and developed software products to support club operations. Stood down as Chair in September 2024.
-- **Chair of The Climbing Clan** (Jan 2020 - Present): Founded a caving group with a very similar setup and structure to the Climbing Clan.
+- **Chair of The Caving Crew** (Jan 2020 - Present): Founded a caving group with a very similar setup and structure to the Climbing Clan.
 - **Technical Sales Consultant at Migrating Dragons** (April 2018 - March 2022): Supported technology companies in building and executing sales strategies.
 - **Customer Success Manager at Brightbox** (October 2018 - October 2019): Helped developers test our platform and gather feedback.
 - **User Research Specialist at Guardian Angel** (February 2019 - July 2019): Conducted user research to improve a free tool for families following the death of a loved one.
